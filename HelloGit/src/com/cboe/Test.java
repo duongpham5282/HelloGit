@@ -6,4 +6,8 @@ public class Test {
 	{
 		
 	}
+	private void t1()
+	{
+		
+	}
 }
