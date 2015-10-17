@@ -10,4 +10,8 @@ public class Test {
 	{
 		System.out.println("test only1");
 	}
+	private void t1()
+	{
+		
+	}
 }
