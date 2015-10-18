@@ -6,19 +6,12 @@ public class Test {
 	{
 		System.out.println("test only");
 	}
-	
-	private static String getName()
+	private void t1()
 	{
-		return "";
+		System.out.println("test only1");
 	}
 	public int getEmmID()
 	{
 		return 10;
 	}
-	private void t1()
-	{
-		int i = 120;
-	}
-	
-	
 }
