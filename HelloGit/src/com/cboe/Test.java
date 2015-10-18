@@ -20,8 +20,5 @@ public class Test {
 		int i = 120;
 	}
 	
-	public int getEmmID()
-	{
-		return 10;
-	}
+	
 }
