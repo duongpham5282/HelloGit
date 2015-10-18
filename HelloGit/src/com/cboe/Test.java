@@ -6,11 +6,11 @@ public class Test {
 	{
 		System.out.println("test only");
 	}
-	private void t1()
-	{
-		System.out.println("test only1");
-	}
 	
+	private static String getName()
+	{
+		return "";
+	}
 	public int getEmmID()
 	{
 		return 10;
