@@ -4,14 +4,15 @@ public class Test {
 
 	private void t()
 	{
-		System.out.println("test only");
+		System.out.println("test");
 	}
 	private void t1()
 	{
-		System.out.println("test only1");
+		int i = 120;
 	}
+	
 	public int getEmmID()
 	{
-		return 11;
+		return 10;
 	}
 }
