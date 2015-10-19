@@ -6,4 +6,5 @@ public interface PersonDao {
 
 	public List<Employee> getAllEmp(Boolean isAll );
 	public void insertNewEmployee(Employee e) throws Exception;
+	public void testGetAllEmp(Boolean isAll);
 }
