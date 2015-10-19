@@ -12,7 +12,6 @@ public class Employee {
 	public void setAge(int age)
 	{
 		this.age = age;
-		this.name = name;
 	}
 	public String getName() {
 		return name;
